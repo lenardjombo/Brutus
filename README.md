@@ -43,4 +43,3 @@ The repository includes sanitized logs, utmp.py and writeup.md. These can be use
 
 Parse wtmp with last -f wtmp or python utmp.py wtmp.
 
-Review writeup.md for the full timeline and commands used.
